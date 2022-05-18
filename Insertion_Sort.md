@@ -45,11 +45,11 @@ Average case = Dizimizin sort türüne göre sıralanmadan önceki karmaşık ha
 Worst case = Dizimizin tersten sıralı olma durumunu düşünelim. n(n-1)'den  O(N²) 'dir.
 Best Case = Dizimizin sıralanmış halini düşünelim. Hiçbir değişim yapılmıyor. (n-1)'den O(N)'dir.
 
-#### 4 - Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+### 4 - Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 18 sayısı dizinin ortasında bulunduğu için average case kapsamındadır.
 
-##### [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+#### [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
 Birinci sorunun cevabında açıklanmış olan mantık uygulanacaktır.
 
