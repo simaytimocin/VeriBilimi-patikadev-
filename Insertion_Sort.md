@@ -36,7 +36,7 @@ Insertion Sort ile sıralanmış hali : [2,6,16,18,22,27]
 
 ### 2 - Big-O gösterimini yazınız.
 
-Genel olarak sorting algoritmalarında Quadratic Complexity ile karşılaşıldığı için Big- O gösterimi N*N sonucu ile O(N²) 'dir.
+Big- O gösterimi N*N sonucu ile O(N²) 'dir.
 
 
 ### 3 - Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
